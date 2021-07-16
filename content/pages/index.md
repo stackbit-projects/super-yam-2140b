@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Danilo Sousa
-    subtitle: Optional hero section subtitle
+    subtitle: 'Conteúdos Sobre Cloud, Big Data e Inteligência Artificial'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
