@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Danilo Sousa
     subtitle: 'Conteúdos Sobre Cloud, Big Data e Inteligência Artificial'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Sejam bem vindos ao site. Se você procura conteúdo sobre Cloud, Big Data e
+      Inteligência Artificial aqui é o local certo
     actions:
       - label: Try Free
         url: /pricing
