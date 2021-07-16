@@ -34,11 +34,6 @@
                 "label": "Contato",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
             }
         ]
     },
