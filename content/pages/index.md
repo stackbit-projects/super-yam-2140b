@@ -8,9 +8,6 @@ sections:
       Sejam bem vindos ao site. Se você procura conteúdo sobre Cloud, Big Data e
       Inteligência Artificial aqui é o local certo
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
